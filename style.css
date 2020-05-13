@@ -1,0 +1,307 @@
+body{
+	background-color: #bee8f4;
+}
+.main{
+	width: 1200px;
+	margin: auto;
+	padding: 16px;
+}
+.header{
+	height: 250px;
+	background-image: url('images/hb.jpg');
+	background-size: 100% 110%;
+}
+.logo{
+	width: 250px;
+	height: 250px;
+	float: left;
+}
+.header ul{
+	list-style-type: none;
+	font-size: 22px;
+	float: right;
+	margin-right: 50px;
+	margin-top: 100px;
+}
+.header li:hover{
+	color: lime;
+	border-radius: 10px;
+	cursor: default;
+    transform: rotate(360deg);
+    transition: all 0.5s ease-in-out 0s;
+}
+.menu ul{
+	
+	padding: 0px;
+	margin:0px;
+	background-color: #49e5e2;
+}
+.menu li{
+	
+	display: inline-block;
+	font-size: 32px;
+	border-radius: 10px;
+	margin-left: 45px;
+	color: blue;
+	padding: 5px 16px;
+}
+.menu li:hover{
+	background-color: #6705b2;
+	color: white;
+	font-style: italic;
+	text-shadow: 2px 2px lime;
+	cursor: default;
+    transform: rotate(360deg);
+    transition: all 0.5s ease-in-out 0s;
+}
+.menu li:active{
+	color: lime;
+}
+a{
+	text-decoration: inherit;
+	color: inherit;
+}
+.container{
+	
+	/*height: 700px;*/
+	overflow: auto;
+	background-image: url('images/body-b.jpg');
+	background-size: 100% 100%;
+	padding: 16px;
+}
+.footer{
+	
+	height: 200px;
+	background: url('images/fb.jpg');
+	background-size: 100% 100%;
+}
+h2{
+	float: right;
+	font-style: italic;
+	color: #0b4add;
+	margin-right: 50px;
+	margin-top: 70px;
+}
+.verj{
+	float: left;
+	color: #0b4add;
+	margin-left: 20px;
+
+}
+.verj:hover{
+	color: red;
+	font-style: italic;
+	text-shadow: 2px 2px lime;
+}
+.slider{
+	/*border: 5px solid ;*/
+	height: 500px;
+	width: 500px;
+	float: left;
+	margin-right: 16px;
+}
+.glxavor{
+	width:500px;
+	height: 350px;
+}
+.slider1{
+	width: 155px;	
+	height: 140px;
+	margin-left: 6.5px;
+}
+.vernagir{
+	margin-left: 250px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	display: inline-block;
+
+}
+#vernagir{
+	display: inline-block;
+	margin-left: 530px;
+}
+p{
+	font-size: 18px;
+}
+.vernagir-ej2{
+	display: inline-block;
+	margin-left: 530px;
+}
+.video{
+	height: 550px;
+	width: 550px;
+	float: left;
+	margin-left: 25px;
+	margin-bottom: 50px;
+}
+iframe{
+	height: 550px;
+	width: 550px;
+}
+.iframe {
+	height: 550px;
+	width: 550px;
+}
+.glxavor:hover{
+	cursor: default;
+    transform: rotate(360deg);
+    transition: all 0.5s ease-in-out 0s;
+}
+.slider1:hover{
+	cursor: default;
+    transform: rotate(360deg);
+    transition: all 0.3s ease-in-out 0s;
+}
+.link{
+	margin-left: 410px;
+	font-size: 22px;
+}
+.link:hover{
+	color: red;
+	text-decoration: underline;
+	font-style: italic;
+}
+.vernagir-ej3{
+	margin-left: 530px;
+}
+.video-ej3{
+	border: 1px solid;
+	height: 550px;
+	width: 550px;
+	float: left;
+	margin-left: 25px;
+	margin-bottom: 50px;
+}
+.link-ej3{
+	margin-left: 450px;
+	font-size: 22px;
+}
+.link-ej3:hover{
+	color: red;
+	text-decoration: underline;
+	font-style: italic;
+}
+.nkar-ej3{
+	height: 500px;
+	width: 500px;
+	margin-top: 50px;
+	margin-left: 350px;
+}
+.vernagir-ej4{
+	
+	margin-left: 80px;
+}
+.im-nkar{
+	height: 480px;
+	width: 360px;
+	float: left;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+.about-nkar{
+	display: inline-block;
+	height: 480px;
+	width: 360px;
+	border-radius: 10px;
+	float: left;
+}
+.about-kensa{
+	list-style-type: none;
+	font-size: 22px;
+	margin-top: 16px;
+}
+.kensagrutyun{
+	clear: left;
+}
+table tr td{
+	font-size: 22px;
+}
+
+td{
+	width: 550px;
+	height: 40px;
+}
+.vernagir-ej5{
+	
+	margin-left: 100px;
+}
+.contact-div{
+	height: 100px;
+	width: 500px;
+	float: left;
+}
+.contact{
+	list-style-type: none;
+	font-size: 22px;
+}
+.social-media{
+	margin-top: 180px;
+	margin-left: 100px;
+}
+.im-hasce{
+	height: 350px;
+	width:350px;
+	float: right;
+	margin-right: 50px;
+}
+.soc-kayq{
+	height: 50px;
+	width: 50px;
+	margin-top: 100px;
+	margin-left: 70px;	
+}
+.vernagir-ej6{
+	text-align: center;
+	text-shadow: 4px 4px gray;
+}
+.mers{
+	height: 470px;
+	width: 570px;
+	margin-left: 8px;
+}
+.mers1{
+	width: 570px;
+	height: 400px;
+	margin-left: 9px;
+}
+.benz:hover{
+	color: red;
+	text-decoration: underline;
+}
+.mers2{
+	width: 570px;
+	height: 350px;
+	margin-left: 9px;
+}
+.mers-axyusak tr td{
+	border-radius: 8px;
+	background-color: #4286f4;
+	padding: 16px;
+}
+.mers-axyusak th{
+	border-radius: 8px;
+	background-color: #6849bc;
+	font-size: 18px;
+}
+.mers-axyusak tr td:hover{
+	background-color: #356ecc;
+	color: white;
+}
+.mers-axyusak th:hover{
+	background-color: #4286f4;
+	color: white;
+}
+.g-class{
+	margin-left: 315px;
+}
+.mersedes{
+	margin-left: 20px;
+}
+
+
+
+
+
+
+
+
